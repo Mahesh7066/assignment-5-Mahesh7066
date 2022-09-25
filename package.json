@@ -1,0 +1,27 @@
+{
+  "name": "assignment-5-mahesh7066",
+  "version": "1.0.0",
+  "description": "buildind APIs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edureka-intership/assignment-5-Mahesh7066.git"
+  },
+  "keywords": [
+    "assignment-5"
+  ],
+  "author": "Mahesh Chand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edureka-intership/assignment-5-Mahesh7066/issues"
+  },
+  "homepage": "https://github.com/edureka-intership/assignment-5-Mahesh7066#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}

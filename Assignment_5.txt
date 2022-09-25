@@ -1,0 +1,11 @@
+Open the terminal in your pc and run
+1: node app.js
+2: you will see "Server is running on http://localhost:9000/"
+3: now you should enter "http://localhost:9000/getCityList" to find cities
+3: now you should enter "http://localhost:9000/getRestaurantByCityName/Delhi" to find Restaurant by city name
+3: now you should enter "http://localhost:9000/getMealtypes" to find Meal types
+
+
+Thank you 
+
+done by: MAHESH CHAND, student at IIT Roorkee
